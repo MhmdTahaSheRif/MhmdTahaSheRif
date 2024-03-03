@@ -18,21 +18,23 @@
 ![Css](https://img.shields.io/badge/CSS-1572B6?&&logo=css3&logoColor=white)
 ![Ts](https://img.shields.io/badge/TypeScript-CC6699?&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white)
-![SASS](https://img.shields.io/badge/CSS-1572B6?&&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-1572B6?&&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white)
 
 ![](https://img.shields.io/badge/Microsoft-666666?&logo=microsoft&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NETcore-5C2D91?&logo=.net&logoColor=white)
+![.NETAPI](https://img.shields.io/badge/API-CC6699?&logo=sass&logoColor=white)
 ![SqlServer](https://img.shields.io/badge/SqlServer-563D7C?&&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=white)
-![Visual-Studio-Code](https://img.shields.io/badge/Rider-FF3300?&logo=Rider&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?&logo=jira&logoColor=white)
+![.NETMVC](https://img.shields.io/badge/MVC-563C7C?&&logoColor=white)
 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-100000?&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Stripe-626CD9?&logo=Stripe&logoColor=white)
+![Visual-Studio-Code](https://img.shields.io/badge/Rider-FF3300?&logo=Rider&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?&logo=jira&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?&logo=apple&logoColor=white)
 
 
