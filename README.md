@@ -35,6 +35,5 @@
 ![GitHub](https://img.shields.io/badge/Stripe-626CD9?&logo=Stripe&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/Rider-FF3300?&logo=Rider&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?&logo=jira&logoColor=white)
-![](https://img.shields.io/badge/mac%20os-000000?&logo=apple&logoColor=white)
 
 
