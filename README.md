@@ -24,19 +24,19 @@
 
 ![](https://img.shields.io/badge/Microsoft-666666?&logo=microsoft&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white)
-![LINQ](https://img.shields.io/badge/.LINQ-5C2D91?&logo=.net&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-458?&logo=LINQ&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NETcore-5C2D91?&logo=.net&logoColor=white)
 ![.NETAPI](https://img.shields.io/badge/API-CC6699?&logo=sass&logoColor=white)
-![Entity Framework (EF)](https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white)
+![Entity Framework (EF)](https://img.shields.io/badge/Entity-866920?&logo=Entity&logoColor=white)
 ![.NETMVC](https://img.shields.io/badge/MVC-563C7C?&&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=white)
 ![SqlServer](https://img.shields.io/badge/SqlServer-563D7C?&&logoColor=white)
 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-100000?&logo=github&logoColor=white)
-![Machine learning](https://img.shields.io/badge/Machinelearning-626CD9?&logo=Stripe&logoColor=white)
-![Mathematical Analysis](https://img.shields.io/badge/MathematicalAnalysis-626CD9?&logo=Stripe&logoColor=blue)
-![Visual-Studio-Code](https://img.shields.io/badge/Rider-FF3300?&logo=Rider&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/DataAnalysis-0052CC?&logo=jira&logoColor=white)
+![.NETMVC](https://img.shields.io/badge/Agile-563C7C?&&logoColor=white)
+![Machine learning](https://img.shields.io/badge/Machinelearning-626CD9?&logo=machine&logoColor=white)
+![Mathematical Analysis](https://img.shields.io/badge/MathematicalAnalysis-3p45q4?&logo=math&logoColor=blue)
+![Data Analysis](https://img.shields.io/badge/DataAnalysis-0052CC?&logo=data&logoColor=white)
 
 
