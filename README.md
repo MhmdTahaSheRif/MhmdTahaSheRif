@@ -19,7 +19,7 @@
 ![Ts](https://img.shields.io/badge/TypeScript-CC6699?&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-1572B6?&&logo=SASS&logoColor=white)
-![.NETAPI](https://img.shields.io/badge/JQUARY-CC6699?&logo=sass&logoColor=white)
+![JQuery](https://img.shields.io/badge/JQuery-CC6699?&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white)
 
 ![](https://img.shields.io/badge/Microsoft-666666?&logo=microsoft&logoColor=white)
