@@ -1,7 +1,6 @@
 # Hello👋, I am Mohamed 
 
 <img align="right" width="250" src="assets/Valorant stickers/Hide the Pain, Brimstone.png">
-####
 
 👋 Hey there! 🚀  I'm currently graduate from ITI and diving into the exciting world of Full Stack .NET technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
 
