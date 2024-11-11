@@ -38,7 +38,6 @@
 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-100000?&logo=github&logoColor=white)
-![.NETMVC](https://img.shields.io/badge/Agile-563C7C?&&logoColor=white)
 ![Machine learning](https://img.shields.io/badge/Machinelearning-626CD9?&logo=machine&logoColor=white)
 ![Mathematical Analysis](https://img.shields.io/badge/MathematicalAnalysis-3p45q4?&logo=math&logoColor=blue)
 ![Data Analysis](https://img.shields.io/badge/DataAnalysis-0052CC?&logo=data&logoColor=white)
