@@ -5,7 +5,7 @@
 
 👋 Hey there! 🚀  I'm currently graduate from ITI and diving into the exciting world of Full Stack .NET technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
 
-💡 If you're curious about (.NET & Angular & React)  or want to chat, I'm your go-to person! Feel free to reach out to me through my Mail mhmdtaha818@gmail.com
+💡 If you're curious about ( Angular & React & .NET )  or want to chat, I'm your go-to person! Feel free to reach out to me through my Mail mhmdtaha818@gmail.com
 
    Let's connect and bring some ideas to life!🌟
 
