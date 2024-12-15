@@ -5,7 +5,7 @@
 
 👋 Hey there! 🚀  I'm currently graduate from ITI and diving into the exciting world of Full Stack .NET technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
 
-💡 If you're curious about .NET  or want to chat, I'm your go-to person! Feel free to reach out to me through my Mail mhmdtaha818@gmail.com
+💡 If you're curious about (.NET & Angular & React)  or want to chat, I'm your go-to person! Feel free to reach out to me through my Mail mhmdtaha818@gmail.com
 
    Let's connect and bring some ideas to life!🌟
 
@@ -19,12 +19,14 @@
 ![Html](https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-1572B6?&&logo=css3&logoColor=white)
 ![Ts](https://img.shields.io/badge/TypeScript-CC6699?&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/IonicAngular-DD0031?&logo=angular&logoColor=white)
+![Ionic Angular](https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-0052CC?&logo=data&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-1572B6?&&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/JQuery-CC6699?&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-563D7C?&&logoColor=yellow)
+![GSAP](https://img.shields.io/badge/GSAP-0052CC?&logo=data&logoColor=white)
 
 ![](https://img.shields.io/badge/Microsoft-666666?&logo=microsoft&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white)
