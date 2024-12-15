@@ -60,7 +60,7 @@ Let's create something amazing! 🌟
 If you're interested in learning more about **.NET**, **Angular**, **React**, or want to discuss a project, feel free to reach out:
 
 📧 [Email](mailto:mhmdtaha818@gmail.com)  
-💻 [GitHub](https://github.com/MhmdTahaSheRif))  
+💻 [GitHub](https://github.com/MhmdTahaSheRif)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-taha-sherif/)
 
 
