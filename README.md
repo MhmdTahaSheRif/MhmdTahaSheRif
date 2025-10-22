@@ -6,7 +6,7 @@
 👋 Hey there! 🚀  I’m an Angular Developer with strong expertise in building scalable front-end applications using Angular, TypeScript, and RxJS, delivering clean and maintainable code by following SOLID principles and modern design patterns.
 In addition to my front-end focus, I have extensive experience with .NET Core, ASP.NET Web API, Entity Framework, and LINQ, which allows me to build and integrate robust back-end services when needed.
 
-💡 If you're curious about ( Angular & React & .NET )  or want to chat, I'm your go-to person! Feel free to reach out to me through my Mail mhmdtaha818@gmail.com
+💡 If you're curious about ( Angular & .NET )  or want to chat, I'm your go-to person! Feel free to reach out to me through my Mail mhmdtaha818@gmail.com
 
    Let's connect and bring some ideas to life!🌟
 
